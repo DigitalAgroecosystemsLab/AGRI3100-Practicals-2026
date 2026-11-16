@@ -2,7 +2,7 @@
 
 University of Manitoba — Instructor: Dr. Nasem Badreldin
 
-This repository hosts the practical lab notebooks for **AGRI 3100 – Introduction to Digital Agriculture**. Each notebook is designed to run entirely in **Google Colab**: students do not need a local Python installation, and no files need to be uploaded or saved to a personal Google Drive. Click an "Open in Colab" link below to launch a lab directly in your browser.
+This repository hosts the practical lab notebooks for **AGRI 3100 – Introduction to Digital Agriculture**. Each notebook is designed to run entirely in **Google Colab**: students do not need a local Python installation. Labs 1–2 use temporary Colab storage; Labs 5–6 use each student's own Google Earth Engine project and Google Drive to save outputs. Click an "Open in Colab" link below to launch a lab directly in your browser.
 
 ## Labs
 
@@ -11,20 +11,28 @@ This repository hosts the practical lab notebooks for **AGRI 3100 – Introducti
 | Lab 1 | Introduction to Python and Google Colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DigitalAgroecosystemsLab/AGRI3100-Practicals-2026/blob/main/AGRI3100_Lab1_Google_Colab.ipynb) |
 | Lab 2 | Agricultural Data Handling and Visualization in Digital Agriculture | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DigitalAgroecosystemsLab/AGRI3100-Practicals-2026/blob/main/AGRI3100_Lab2_Agricultural_Data_Handling_Visualization.ipynb) |
 
+| Lab 5 | Multisensor Satellite Vegetation Indices (Sentinel-2, Landsat, MODIS; NDVI, EVI, SAVI) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DigitalAgroecosystemsLab/AGRI3100-Practicals-2026/blob/main/AGRI3100_Lab5_Multisensor_Vegetation_Indices.ipynb) |
+| Lab 6 | Crop Growth and Phenology (field polygons, multitemporal satellite imagery, vegetation dynamics) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DigitalAgroecosystemsLab/AGRI3100-Practicals-2026/blob/main/AGRI3100_Lab6_Crop_Growth_Phenology.ipynb) |
+
+*Labs 3 and 4 are not yet available in this repository. Numbering is retained to align with AGRI 3100 teaching materials.*
+
 Direct links:
 
 - Lab 1 – Introduction to Python and Google Colab: https://colab.research.google.com/github/DigitalAgroecosystemsLab/AGRI3100-Practicals-2026/blob/main/AGRI3100_Lab1_Google_Colab.ipynb
 - Lab 2 – Agricultural Data Handling and Visualization in Digital Agriculture: https://colab.research.google.com/github/DigitalAgroecosystemsLab/AGRI3100-Practicals-2026/blob/main/AGRI3100_Lab2_Agricultural_Data_Handling_Visualization.ipynb
 
+- Lab 5 – Multisensor Satellite Vegetation Indices: https://colab.research.google.com/github/DigitalAgroecosystemsLab/AGRI3100-Practicals-2026/blob/main/AGRI3100_Lab5_Multisensor_Vegetation_Indices.ipynb
+- Lab 6 – Crop Growth and Phenology: https://colab.research.google.com/github/DigitalAgroecosystemsLab/AGRI3100-Practicals-2026/blob/main/AGRI3100_Lab6_Crop_Growth_Phenology.ipynb
+
 ## Getting started
 
 1. Click the "Open in Colab" link for the lab you are working on.
-2. Sign in with your Google account when prompted (this is only required to *run* the notebook — you are not saving anything to your Drive).
+2. Sign in with your Google account when prompted. **For Labs 5–6**, configure your own Earth Engine cloud project, authenticate, and mount your own Google Drive as instructed in the notebook.
 3. Run the cells from top to bottom.
 4. **Save your work periodically** using **File → Download → Download .ipynb**, so you always have a local backup during the session.
 5. When you finish, download the completed `.ipynb` file and submit it through UM Learn.
 
-You do **not** need to use "Save a copy in Drive" — each notebook runs in a temporary Colab session and tells you when and how to save a backup.
+For Labs 1–2, saving a copy in Google Drive is not required. **Labs 5–6 intentionally save results to your Google Drive**; follow their folder and export instructions.
 
 ## Lab 2 dataset
 
@@ -36,5 +44,7 @@ Lab 2 uses a shared soil dataset (`AGRI3100-Soil-Data.xlsx`, ~17 MB) that is **n
 AGRI3100-Practicals-2026/
 ├── README.md
 ├── AGRI3100_Lab1_Google_Colab.ipynb
-└── AGRI3100_Lab2_Agricultural_Data_Handling_Visualization.ipynb
+├── AGRI3100_Lab2_Agricultural_Data_Handling_Visualization.ipynb
+├── AGRI3100_Lab5_Multisensor_Vegetation_Indices.ipynb
+└── AGRI3100_Lab6_Crop_Growth_Phenology.ipynb
 ```
