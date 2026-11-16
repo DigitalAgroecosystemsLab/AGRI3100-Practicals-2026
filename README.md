@@ -1,6 +1,18 @@
-# AGRI 3100 – Introduction to Digital Agriculture | Practical Labs | Fall 2026
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DigitalAgroecosystemsLab/Satellite-Remote-Sensing-Practicals-2026/main/assets/logos/university-of-manitoba.png" alt="University of Manitoba logo" height="90" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/DigitalAgroecosystemsLab/Satellite-Remote-Sensing-Practicals-2026/main/assets/logos/digital-agroecosystems-lab.png" alt="Digital AgroEcosystems Lab logo" height="90" />
+</p>
 
-University of Manitoba — Instructor: Dr. Nasem Badreldin
+# AGRI 3100 — Introduction to Digital Agriculture
+
+<p align="center">
+  <strong>Practical Labs · Fall 2026</strong><br />
+  University of Manitoba · Digital AgroEcosystems Lab (DALab)<br />
+  Instructor: Dr. Nasem Badreldin
+</p>
+
+---
 
 This repository hosts the practical lab notebooks for **AGRI 3100 – Introduction to Digital Agriculture**. Each notebook is designed to run entirely in **Google Colab**: students do not need a local Python installation. Labs 1–2 use temporary Colab storage; Labs 5–6 use each student's own Google Earth Engine project and Google Drive to save outputs. Click an "Open in Colab" link below to launch a lab directly in your browser.
 
