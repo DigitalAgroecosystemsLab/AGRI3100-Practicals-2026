@@ -26,7 +26,7 @@ This repository hosts the practical lab notebooks for **AGRI 3100 – Introducti
 | Lab 4 | Soil Colour | Workshop | **Completed** |
 | Lab 5 | Multisensor Satellite Vegetation Indices (Sentinel-2, Landsat, MODIS; NDVI, EVI, SAVI) | Google Colab practical | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DigitalAgroecosystemsLab/AGRI3100-Practicals-2026/blob/main/AGRI3100_Lab5_Multisensor_Vegetation_Indices.ipynb) |
 | Lab 6 | Crop Growth and Phenology (field polygons, multitemporal satellite imagery, vegetation dynamics) | Google Colab practical | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DigitalAgroecosystemsLab/AGRI3100-Practicals-2026/blob/main/AGRI3100_Lab6_Crop_Growth_Phenology.ipynb) |
-| Lab 7 | Soil Spectroscopy and Machine Learning (spectral exploration, PCA, preprocessing, SVR for TOM) | Google Colab practical | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DigitalAgroecosystemsLab/AGRI3100-Practicals-2026/blob/main/AGRI3100_Lab7_Soil_Spectroscopy_Machine_Learning.ipynb) |
+| Lab 7 | Soil Spectroscopy and Machine Learning (spectral exploration, PCA, preprocessing, SVR for TOM) | Google Colab practical | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DigitalAgroecosystemsLab/AGRI3100-Practicals-2026/blob/main/AGRI3100_Lab7_Soil_Spectroscopy_Machine_Learning_Zeinab.ipynb) |
 
 **Note:** Labs 3 and 4 were completed as an assignment and workshop, respectively. They do not require Colab notebooks here.
 
@@ -57,5 +57,5 @@ AGRI3100-Practicals-2026/
 ├── AGRI3100_Lab2_Agricultural_Data_Handling_Visualization.ipynb
 ├── AGRI3100_Lab5_Multisensor_Vegetation_Indices.ipynb
 ├── AGRI3100_Lab6_Crop_Growth_Phenology.ipynb
-└── AGRI3100_Lab7_Soil_Spectroscopy_Machine_Learning.ipynb
+└── AGRI3100_Lab7_Soil_Spectroscopy_Machine_Learning_Zeinab.ipynb
 ```
